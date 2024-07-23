@@ -735,6 +735,10 @@ span {
   .skills-content .progress h3 {
     font-size: 1.6rem;
   }
+    .contact {
+        diplay : flex;
+        justify-content : center;
+        flex-wrap : wrap;
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
