@@ -601,7 +601,7 @@ span {
 
 /* BREAKPOINTS */
 
-/*@media (max-width: 1200px) {
+@media (max-width: 1200px) {
     html {
         font-size: 55%;
     }
@@ -656,7 +656,7 @@ span {
         font-size: 2rem;
         margin: 3rem 0;
     } 
-}*/
+}
 
 @media (max-width: 768px) {
   /* For screens smaller than 768px (e.g., mobile devices) */
